@@ -1,4 +1,4 @@
-# techchallenge5
+# TechChallenge 5: Análise de Sentimentos com Deep Learning
 
 Este é um projeto de Análise de Sentimentos com a utilização DistilBERT e Deep Learning idealizado na linguagem Python, versão 3.12.
 

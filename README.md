@@ -19,6 +19,8 @@ Este projeto tem como objetivo analisar reclamações de clientes do setor banc�
 ## Base de Dados
 O estudo utiliza um dataset de reclamações bancárias em formato CSV, contendo descrições textuais dos relatos dos clientes. Para fins de desempenho e balanceamento, foi utilizada uma amostra aleatória das reclamações, além da criação de comentários positivos únicos.
 
+Dados obtidos em: https://www.kaggle.com/api/v1/datasets/download/shashwatwork/consume-complaints-dataset-fo-nlp
+
 ---
 
 ## Tecnologias Utilizadas
